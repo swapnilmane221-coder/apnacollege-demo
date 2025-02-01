@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is for tutorial.
 <br>
-author-swapnil mane
+author-swapnil mane(TE)
